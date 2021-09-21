@@ -1,10 +1,10 @@
-### :wave: Hi, I'm Jordan
+### :wave:&nbsp; Hi, I'm Jordan
 
 **This is a neat thing...** this `README.md` appears on my GitHub profile?
 
 #### :keyboard: I’m currently working on...
 * :joystick:&nbsp; [CitrusMC](https://citrusmc.net) ⌇ Minecraft server and website
-* :globe_with_meridians:&nbsp; shrinket.io ⌇ PHP URL Shortener
+* :globe_with_meridians:&nbsp; shrinket ⌇ URL Shortener
 * 🎛️&nbsp; Minecraft Administration Panel (WIP)
 * :grimacing:&nbsp; Other projects that I'll probably never finish...
 

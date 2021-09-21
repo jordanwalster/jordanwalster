@@ -3,10 +3,10 @@
 **This is a neat thing...** this `README.md` appears on my GitHub profile?
 
 #### :keyboard: I’m currently working on...
-* :joystick: [CitrusMC](https://citrusmc.net) ⌇ Minecraft server and website
-* :moneybag: debtbook ⌇ Personal Debt Tracker
-* :globe_with_meridians: shrinket.io ⌇ PHP URL Shortener
-* :grimacing: Other projects that I'll probably never finish...
+* :joystick:&nbsp; [CitrusMC](https://citrusmc.net) ⌇ Minecraft server and website
+* :globe_with_meridians:&nbsp; shrinket.io ⌇ PHP URL Shortener
+* 🎛️&nbsp; Minecraft Administration Panel (WIP)
+* :grimacing:&nbsp; Other projects that I'll probably never finish...
 
 #### :octocat: Other projects that I think are cool:
 * https://github.com/cdr/code-server

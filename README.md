@@ -4,7 +4,6 @@
 
 #### :keyboard:&nbsp; I’m currently working on...
 * :joystick:&nbsp; [CitrusMC](https://citrusmc.net) ⌇ Minecraft server and website
-* :globe_with_meridians:&nbsp; shrinket ⌇ URL Shortener
 * 🎛️&nbsp; Minecraft Administration Panel (WIP)
 * :grimacing:&nbsp; Other projects that I'll probably never finish...
 
